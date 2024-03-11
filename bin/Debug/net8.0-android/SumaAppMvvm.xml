@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SumaAppMvvm</name>
+    </assembly>
+    <members>
+        <member name="T:SumaAppMvvm.ViewModels.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:SumaAppMvvm.ViewModels.MainPageViewModel.N1">
+            <inheritdoc cref="F:SumaAppMvvm.ViewModels.MainPageViewModel._n1"/>
+        </member>
+        <member name="P:SumaAppMvvm.ViewModels.MainPageViewModel.N2">
+            <inheritdoc cref="F:SumaAppMvvm.ViewModels.MainPageViewModel._n2"/>
+        </member>
+        <member name="P:SumaAppMvvm.ViewModels.MainPageViewModel.Total">
+            <inheritdoc cref="F:SumaAppMvvm.ViewModels.MainPageViewModel._total"/>
+        </member>
+        <member name="F:SumaAppMvvm.ViewModels.MainPageViewModel.calcularCommand">
+            <summary>The backing field for <see cref="P:SumaAppMvvm.ViewModels.MainPageViewModel.CalcularCommand"/>.</summary>
+        </member>
+        <member name="P:SumaAppMvvm.ViewModels.MainPageViewModel.CalcularCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:SumaAppMvvm.ViewModels.MainPageViewModel.Calcular"/>.</summary>
+        </member>
+        <member name="F:SumaAppMvvm.ViewModels.MainPageViewModel.limpiarCommand">
+            <summary>The backing field for <see cref="P:SumaAppMvvm.ViewModels.MainPageViewModel.LimpiarCommand"/>.</summary>
+        </member>
+        <member name="P:SumaAppMvvm.ViewModels.MainPageViewModel.LimpiarCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:SumaAppMvvm.ViewModels.MainPageViewModel.Limpiar"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.N1">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "N1" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.N2">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "N2" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Total">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Total" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.N1">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "N1" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.N2">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "N2" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Total">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Total" generated properties.</summary>
+        </member>
+    </members>
+</doc>
